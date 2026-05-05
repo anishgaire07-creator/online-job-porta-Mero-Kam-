@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Home",
+    "jobs": "Jobs",
+    "companies": "Companies",
+    "pricing": "Pricing",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "Find work that fits your life in Nepal",
+    "subtitle": "Mero Kam connects job seekers and employers with a fast, modern experience.",
+    "search": "Search jobs",
+    "location": "Location",
+    "ctaHire": "Hire talent"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved."
+  },
+  "jobs": {
+    "filters": "Filters",
+    "salary": "Salary (NPR)",
+    "type": "Job type",
+    "experience": "Experience"
+  }
+}

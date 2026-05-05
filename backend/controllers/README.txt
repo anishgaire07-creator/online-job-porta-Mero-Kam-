@@ -1,0 +1,1 @@
+MVC note: Business logic lives in `models/`. API scripts under `api/` act as thin controllers (parse input, call models, return JSON). Add dedicated controller classes here if you outgrow one-file endpoints.
